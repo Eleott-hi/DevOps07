@@ -3,11 +3,11 @@
 
 
 ![img](../misc/images/ex01_image_sizes.png)
-![img](../misc/images/ex01_book_hotel.png)
-![img](../misc/images/ex01_get_balance.png)
+![img](../misc/images/ex01_login.png)
 ![img](../misc/images/ex01_get_hotel.png)
 ![img](../misc/images/ex01_get_hotels.png)
-![img](../misc/images/ex01_login.png)
+![img](../misc/images/ex01_book_hotel.png)
+![img](../misc/images/ex01_get_balance.png)
 
 
 ## Part 2. Создание виртуальных машин
